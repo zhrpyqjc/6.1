@@ -2,7 +2,7 @@
 	<head>
 		<title>六一义卖</title>
 	<body>
-		<img style="-webkit-user-select: none;cursor: zoom-in;" src="file:///D:/%E5%85%AD%E4%B8%80%E4%B9%89%E5%8D%96/1/20190523_IMG_3365.JPG" width="850" height="446">
+		<img style="-webkit-user-select: none;cursor: zoom-in;" src="20190523_IMG_3365.JPG" width="850" height="446">
 		<p>
 			<strong style="font-size:25px">物品名称：小熊夫妇</strong>
 		</p>
