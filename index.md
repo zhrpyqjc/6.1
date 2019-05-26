@@ -1,6 +1,7 @@
 <html>
 	<head>
 		<title>六一义卖</title>
+	</head>	
 	<body>
 		<img src="20190523_IMG_3365.JPG" width="850" height="446">
 		<p>
